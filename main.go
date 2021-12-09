@@ -6,10 +6,10 @@ import (
 
 	"github.com/gin-gonic/gin"
 	_ "github.com/joho/godotenv/autoload"
-	"github.com/zjyl1994/livetv/database"
-	"github.com/zjyl1994/livetv/handlers"
-	"github.com/zjyl1994/livetv/services/parser"
-	"github.com/zjyl1994/livetv/services/proxy"
+	"github.com/94ione/livetv/database"
+	"github.com/94ione/livetv/handlers"
+	"github.com/94ione/livetv/services/parser"
+	"github.com/94ione/livetv/services/proxy"
 )
 
 func main() {
