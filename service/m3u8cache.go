@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/zjyl1994/livetv/global"
-	"github.com/zjyl1994/livetv/util"
+	"github.com/94ione/livetv/global"
+	"github.com/94ione/livetv/util"
 )
 
 func LoadChannelCache() {
