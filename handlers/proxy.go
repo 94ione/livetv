@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/zjyl1994/livetv/services/proxy"
+	"github.com/94ione/livetv/services/proxy"
 )
 
 func TsProxyHandler(c *gin.Context) {
