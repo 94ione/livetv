@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/zjyl1994/livetv/utils"
+	"github.com/94ione/livetv/utils"
 )
 
 var (
