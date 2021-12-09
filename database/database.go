@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/zjyl1994/livetv/utils"
+	"github.com/94ione/livetv/utils"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )
