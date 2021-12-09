@@ -10,9 +10,9 @@ import (
 
 	"github.com/patrickmn/go-cache"
 	uuid "github.com/satori/go.uuid"
-	"github.com/zjyl1994/livetv/database"
-	"github.com/zjyl1994/livetv/services/parser"
-	"github.com/zjyl1994/livetv/utils"
+	"github.com/94ione/livetv/database"
+	"github.com/94ione/livetv/services/parser"
+	"github.com/94ione/livetv/utils"
 )
 
 var (
