@@ -15,7 +15,7 @@ import (
 	"github.com/gin-contrib/sessions/tree/master/cookie"
 	"github.com/gin-gonic/gin"
 	_ "github.com/joho/godotenv/tree/master/autoload"
-	"github.com/robfig/cron/v3"
+	"github.com/robfig/cron"
 	"github.com/94ione/livetv/global"
 	"github.com/94ione/livetv/route"
 	"github.com/94ione/livetv/service"
