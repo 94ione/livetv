@@ -12,9 +12,9 @@ import (
 	"time"
 
 	"github.com/gin-contrib/sessions"
-	"github.com/gin-contrib/sessions/tree/master/cookie"
+	"github.com/gin-contrib/sessions/cookie"
 	"github.com/gin-gonic/gin"
-	_ "github.com/joho/godotenv/tree/master/autoload"
+	_ "github.com/joho/godotenv/autoload"
 	"github.com/robfig/cron"
 	"github.com/94ione/livetv/global"
 	"github.com/94ione/livetv/route"
